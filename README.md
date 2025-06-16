@@ -14,7 +14,7 @@ Accepting orders — see the Contacts section.
 ## 🛠 Tech Stack / Стек
 
 - **Language / Язык**: Python 3.11  
-- **Telegram Frameworks**: pyTelegramBotAPI  
+- **Telegram Framework**: pyTelegramBotAPI  
 - **Web**: FastAPI, aiohttp  
 - **Databases / БД**: PostgreSQL, SQLite3
 - **Tools**: gspread, pydrive, Open Ai API, docxtpl, pytz
