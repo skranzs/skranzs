@@ -20,17 +20,9 @@ I enjoy writing clean code, integrating APIs, and deploying bots into production
 
 ## 📌 Projects / Проекты
 
-- 🧠 [AI Chatbot](https://github.com/skranzs/ai-chatbot)  
-  Telegram chatbot with GPT integration and context memory  
-  — Telegram-бот с GPT и сохранением истории диалогов
-
-- 📊 [Finance Tracker](https://github.com/skranzs/finance-bot)  
-  Personal expense tracker with inline UI  
-  — Личный трекер расходов с inline-интерфейсом
-
-- 🌤️ [Weather Bot](https://github.com/skranzs/weather-bot)  
-  Realtime weather via OpenWeather API  
-  — Погода в реальном времени через OpenWeather API
+- 📊 [Clinic crm bot](https://github.com/skranzs/clinic_crm_bot)  
+  Customer interaction and financial management  
+  — Взаимодействие с клиентами и ведение финансов
 
 ---
 
