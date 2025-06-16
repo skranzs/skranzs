@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey! / Привет!
 
-<!--
-**skranzs/skranzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer focused on building Telegram bots using Python.  
+I enjoy writing clean code, integrating APIs, and deploying bots into production.
 
-Here are some ideas to get you started:
+Я бэкенд-разработчик, специализирующийся на создании Telegram-ботов на Python.  
+Люблю писать чистый код, интегрировать внешние API и выкатывать проекты в прод.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack / Стек
+
+- **Language / Язык**: Python 3.11  
+- **Telegram Frameworks**: pyTelegramBotAPI  
+- **Web**: FastAPI, aiohttp  
+- **Databases / БД**: PostgreSQL, SQLite3
+- **Tools**: gspread, pydrive, Open Ai API, docxtpl, pytz
+
+---
+
+## 📌 Projects / Проекты
+
+- 🧠 [AI Chatbot](https://github.com/skranzs/ai-chatbot)  
+  Telegram chatbot with GPT integration and context memory  
+  — Telegram-бот с GPT и сохранением истории диалогов
+
+- 📊 [Finance Tracker](https://github.com/skranzs/finance-bot)  
+  Personal expense tracker with inline UI  
+  — Личный трекер расходов с inline-интерфейсом
+
+- 🌤️ [Weather Bot](https://github.com/skranzs/weather-bot)  
+  Realtime weather via OpenWeather API  
+  — Погода в реальном времени через OpenWeather API
+
+---
+
+## 🚀 Currently learning / Сейчас изучаю
+
+- Aiogram 3
+- Web development (HTML, CSS, JavaScript, frontend/backend basics)
+- Telegram Mini Apps ↑ 
+
+---
+
+## 📫 Contacts / Контакты
+
+- Telegram: [@cryptobankrot](https://t.me/cryptobankrot) 😁
+
+---
+
+> 💬 "Зачем мне мир, в котором нету кода?"
