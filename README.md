@@ -27,7 +27,7 @@ Accepting orders — see the Contacts section.
   Customer interaction and financial management  
   — Взаимодействие с клиентами и ведение финансов
 
-- ✉️ [Учёт писем и генерация pdf-файла](https://github.com/skranzs/clinic_crm_bot)  
+- ✉️ [Учёт писем и генерация pdf-файла](https://github.com/skranzs/mails_accounting_bot)  
   — Учёт входящих и исходящих писем с возможностью генерации пдф файла по этим двум категориям
 
 ---
