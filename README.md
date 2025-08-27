@@ -1,5 +1,7 @@
 # 👋 Hey! / Привет!
 
+- Telegram: [@cryptobankrot](https://t.me/cryptobankrot) 😁
+
 I'm a backend developer focused on building Telegram bots using Python.  
 I enjoy writing clean code, integrating APIs, and deploying bots into production.
 
