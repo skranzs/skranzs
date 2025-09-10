@@ -3,6 +3,8 @@
 I'm a backend developer focused on building Telegram bots using Python.  
 I enjoy writing clean code, integrating APIs, and deploying bots into production.
 
+Мой сайт: kulikov-studio.ru
+
 Я бэкенд-разработчик, специализирующийся на создании Telegram-ботов на Python.  
 Люблю писать чистый код, интегрировать внешние API и выкатывать проекты в прод.
 
