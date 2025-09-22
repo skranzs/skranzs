@@ -36,7 +36,6 @@ Accepting orders — see the Contacts section.
 
 ## 🚀 Currently learning / Сейчас изучаю
 
-- Aiogram 3
 - Web development (HTML, CSS, JavaScript, frontend/backend basics)
 - Telegram Mini Apps ↑ 
 
